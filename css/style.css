@@ -1,12 +1,18 @@
 body {
-background: navy;
+  background: black;
 }
 
 body h1 {
-background: yellow;
-color:red;
+  color: green;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 body p {
-color: white;
+  color: yellow;
+  border: 1px solid white;
+  display: float;
+  display: -ms-flexbox;
+  display: flex;
 }
+/*# sourceMappingURL=style.css.map */
